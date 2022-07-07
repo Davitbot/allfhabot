@@ -55,7 +55,8 @@ apt update && apt upgrade
 pkg install bash
 git clone https://github.com/Miskinbotz/allfhabot.git
 cd allfhabot
-bash install.sh
+yarn
+npm start
 ```
 
 ## Edit file
