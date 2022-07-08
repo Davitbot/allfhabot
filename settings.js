@@ -18,24 +18,25 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "ᴹᴿ᭄ RakunOfcོ ×፝֟͜×" //namabot kalian
-global.ownername= "ᴹᴿ᭄ NandoOfcོ ×፝֟͜×" //nama kalian
+global.botname = "DEVI BOT 🤖" //namabot kalian
+global.ownername= "David" //nama kalian
 global.myweb ="https://youtu.be/-5FLbHqHmw4" //bebas asal jan hapus
 global.youtube = "https://youtu.be/-5FLbHqHmw4" //bebas asal jan hapus
 global.github = "https://github.com/Miskinbotz/Miskinbotz" //bebas
 global.email = "rwinrnando@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6282391768021" // nomor wa kalian
-global.ownernomerr = "6282391768021" //nmr wa kalian
-global.ownernomerrr = "https://wa.me/message/QX77KVOYM3JCD1"
+global.ownernomer = "6281542009512" // nomor wa kalian
+global.ownernomerr = "6281542009512" //nmr wa kalian
+global.ownernomerrr = "https://wa.me/message/2AD3SGOP5IXSC1"
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.game = "./image/format.jpg"
 global.payrs = "./image/payrs.jpg"
+global.menu = "./image/menu.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282391768021"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281542009512"] //ganti agar fitur owner bisa di gunakan
 global.packname = '㋿ BY' //sticker wm ubah
-global.author = 'RAKUN BOT' //sticker wm ganti nama kalian
+global.author = 'DEVI BOT 🤖' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
