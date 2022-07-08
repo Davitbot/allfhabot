@@ -867,7 +867,12 @@ Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
-CHTT OWNER KALOK MAU
+BOT TIDAK DI JUAL BELI KAN
+BOT HANYA BISA DI SEWA
+
+KETIK SEWA BOT [ AKAN MUNCUL LIST SEWA BOT ]
+wa.me/${ownernomer}
+
 `
 }
 exports.tos = (ownernomer) => {
@@ -875,7 +880,7 @@ exports.tos = (ownernomer) => {
 *-------「 DONATE 」 -------*
 
 Hai kak ☺️ 
-Sebelum nya.. Makasi ya Sudah mau donasi boat BOT RS
+Sebelum nya.. Makasi ya Sudah mau donasi buat DEVI BOT 🤖
 dan saya harap bakalan adet bot setiap bulan nya.... ☺️
 
 Berapapun donasi kalian akan sangat berarti buat saya... 👍
@@ -889,30 +894,25 @@ wa.me/${ownernomer}
 }
 
 exports.payrs = (prefix) =>{
-return`*PAYMENT RAKUN SHOP GAME*
-~~~~~~~~~~~~~~~~~~~~~~~~
-⪼ *DANA : NA NAMA*
-⺠ *MAHARANI*
-〄 *082391768021*
+return` PEMBAYRAN : 
 
-⪼ *GOPAY |•| LING AJA |•| SHOPPY*
-⺠ *NA : RWIN RNANDO*
-〄 *082391768021*
+BANK : 
+*BCA : 0462506218 A/n DAVID SETIAWAN*
+==================================
+E-WALLET : 
+*DANA : 089670119519 A/n PUJIANTO*
 
-🏧 *BANK ORI*
-💫 *SEABANK : NA*
-👤 WINORO H.M
-💳 *901711939465*
-🏧 *BANK VPS : NA*
-👤 *MAHA RANI*
-⬇️⬇️⬇️⬇️⬇️⬇️
-*💳BCA VPS : 3901 0823 9176 8021*
-*💳BRI VPS : 8881 0 0823 9176 8021*
-*💳BNI VPS : 8810 0823 9176 8021*
-*💳MANDIRI : 8950 8 0823 9176 8021*
-*💳PERMATA : 8528 0823 9176 8021*
+*OVO : 089670119519 A/n DEVI CELL*
 
-FORMAT GAME ADA DI BAWAHH YO..
+*GO PAY : 089670119519 A/n DAVID SETIAWAN*
+
+*SHOPEE : 083844411281 A/n DEVI_GAMINGSTORE*
+
+*QRIS BATEN ADA DI ATAS YA GAIS*
+
+*JANGAN LUPA KIRIM BUKTI PEMBAYARAN YAH BOSKU☺️*
+
+FORMAT GAME ADA DI BAWAHH YO...
 `
 }
 exports.format =  (prefix) =>{
